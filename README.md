@@ -1,5 +1,6 @@
 # covid-Heat-Map
-it shows live heat map of covid at global level
+
+It is a covid-19 heat map that use live data from website worldometers  and using that data with matplotlib it plots some graphs and then finally used that data on a geographical map using pandas and geopandas to create the heat map 
 
 **screenshots of project**
 
